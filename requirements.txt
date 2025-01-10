@@ -1,0 +1,8 @@
+# List of project dependencies
+flask
+opencv-python
+pytesseract
+cassandra-driver
+torch
+boto3
+logging
